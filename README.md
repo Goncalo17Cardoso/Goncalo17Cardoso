@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'am student aiming to graduate in Software Engineering
 -------------------------------------------------------
 
-I'm 18 years old, currently finishing my 12 school year.
-
 * 🌍  I'm based in Porto, Portugal
 * ✉️  You can contact me at [goncalo17cardoso@gmail.com](mailto:goncalo17cardoso@gmail.com)
 
