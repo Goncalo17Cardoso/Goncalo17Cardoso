@@ -10,14 +10,14 @@ My name is Gonçalo Cardoso, I am 19 years old and from Porto, Portugal. I compl
         <img 
             alt="Github Stars" 
             title="Github Stars" 
-            src="https://custom-icon-badges.demolab.com/github/stars/goncalo17cardoso?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/goncalo17cardoso?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
         />
     </a>
     <a href="https://github.com/goncalo17cardoso?tab=followers">
         <img 
             alt="Followers" 
             title="Follow me on GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/goncalo17cardoso?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/goncalo17cardoso?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
         />
     </a>
     <a href="https://www.instagram.com/goncalo17cardoso/">
