@@ -2,7 +2,7 @@
 
 **`FullStack Developer and Infrastructures`**
 
-My name is Gonçalo Cardoso, I am 19 years old and from Porto, Portugal. I completed secondary school in a professional course in Management and Computer Systems Programming. I am currently studying Computer Engineering at ISPGAYA. I am interested in creating content in the same field through my Instagram "[Gonçalo Cardoso](https://www.instagram.com/goncalo17cardoso/)".
+My name is Gonçalo Cardoso, I am from Porto, Portugal. I completed secondary school in a professional course in Management and Computer Systems Programming. I am currently studying Computer Engineering at ISPGAYA. I am interested in creating content in the same field through my Instagram "[Gonçalo Cardoso](https://www.instagram.com/goncalo17cardoso/)".
 
 
 <p align="left">
