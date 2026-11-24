@@ -2,23 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:236ad3&height=180&section=header&text=Gon%C3%A7alo%20Cardoso&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Computer%20Engineer%20%C2%B7%20CEO%20%40%20JourneyHosting&descAlignY=56&descSize=16" alt="Gonçalo Cardoso" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=236AD3&center=true&vCenter=true&width=520&lines=Computer+Engineer+from+Porto+%F0%9F%87%B5%F0%9F%87%B9;CEO+%40+journeyhosting.pt;Creator+of+C%23+Workbench+Studio;.NET+%C2%B7+TypeScript+%C2%B7+React+%C2%B7+Docker" alt="Typing SVG" />
-</a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=236AD3&center=true&vCenter=true&width=520&lines=Computer+Engineer+from+Porto+%F0%9F%87%B5%F0%9F%87%B9;CEO+%40+journeyhosting.pt;Creator+of+C%23+Workbench+Studio;.NET+%C2%B7+TypeScript+%C2%B7+React+%C2%B7+Docker" alt="Typing SVG" /></a>
 
 <p>
-  <a href="https://github.com/goncalo17cardoso?tab=followers">
-    <img alt="Followers" src="https://custom-icon-badges.demolab.com/github/followers/goncalo17cardoso?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white" />
-  </a>
-  <a href="https://github.com/goncalo17cardoso?tab=repositories&sort=stargazers">
-    <img alt="Stars" src="https://custom-icon-badges.demolab.com/github/stars/goncalo17cardoso?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars" />
-  </a>
-  <a href="https://www.instagram.com/goncalo17cardoso/">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/goncalo17cardoso/">
-    <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white" />
-  </a>
+  <a href="https://github.com/goncalo17cardoso?tab=followers"><img alt="Followers" src="https://custom-icon-badges.demolab.com/github/followers/goncalo17cardoso?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white" /></a>
+  <a href="https://github.com/goncalo17cardoso?tab=repositories&sort=stargazers"><img alt="Stars" src="https://custom-icon-badges.demolab.com/github/stars/goncalo17cardoso?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars" /></a>
+  <a href="https://www.instagram.com/goncalo17cardoso/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/goncalo17cardoso/"><img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white" /></a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=goncalo17cardoso&color=236ad3&style=for-the-badge&label=Profile+views" />
 </p>
 
