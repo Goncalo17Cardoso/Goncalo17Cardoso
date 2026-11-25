@@ -27,7 +27,6 @@ I'm **Gonçalo**, a Computer Engineer from **Porto, Portugal** who likes owning 
 - 🚀 **CEO of [JourneyHosting](https://journeyhosting.pt)** — a Portuguese hosting and development company that helps businesses grow their digital presence with reliable infrastructure and close, human support
 - 🧩 Owner of [**C# Workbench Studio**](https://github.com/Goncalo17Cardoso/csharp-workbench-studio), a C# extension for VS Code
 - 🐧 Owner of the Linux distros **JourneyOS** and **JourneyServer**
-- ⚡ Fun fact: I'd rather automate a task twice than do it by hand three times
 
 ---
 
